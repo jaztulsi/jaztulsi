@@ -39,3 +39,5 @@ I build things that learn and things people use — autonomous AI agents, reinfo
   <a href="mailto:jasrajtulsi29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/jasraj-tulsi-853b89344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<!-- profile readme -->
